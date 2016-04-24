@@ -12,7 +12,7 @@ For CIS 422 Project 1
 
 ## Developer Log 
 * Nicole - NicoleHsieh_DevLog.docx
-* Jenny - 
+* Jenny - https://github.com/jhorn3/SafeRide/wiki/Jenny-Dev-Logs
 * Julie - 
 
 
